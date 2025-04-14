@@ -1,6 +1,6 @@
 # SnippetSaver API
 
-A backend API built with Node.js, Express, and PostgreSQL to manage user authentication and task management. The project uses JWT for authentication, bcrypt for secure password hashing, and protected routes for user-specific data.
+A backend API built with Node.js, Express, and PostgreSQL to manage user authentication and task management. The project uses JWT for authentication, bcrypt for secure password hashing, and protected routes for user-specific data .
 
 ## Features
 
@@ -18,6 +18,7 @@ A backend API built with Node.js, Express, and PostgreSQL to manage user authent
 - bcrypt
 - jsonwebtoken
 - pg (PostgreSQL client)
+- Redis
 
 ## API Endpoints
 
